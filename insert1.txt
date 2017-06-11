@@ -1,0 +1,7 @@
+get touched secondly
+get touched
+<<<<<<< HEAD
+chnged in master
+=======
+chng in firstBranch
+>>>>>>> firstBranch
